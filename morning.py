@@ -12,4 +12,4 @@ print ('HELLO bad mode 0510 9:00pm')
 
 print ('end bad mode')
 
-print ('need to learn')
+print ('need to learn at 0511')
