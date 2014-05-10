@@ -11,3 +11,5 @@ print ('hello 0510')
 print ('bad mode 9:00pm')
 
 print ('end bad mode')
+
+print ('need to learn')
