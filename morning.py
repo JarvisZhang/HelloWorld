@@ -8,4 +8,6 @@ print ('new')
 
 print ('hello 0510')
 
-print ('bad mood')
+print ('bad mode')
+
+print ('end bad mode')
