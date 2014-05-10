@@ -7,3 +7,5 @@ print ('new')
 
 
 print ('hello')
+
+print ('bad mood')
