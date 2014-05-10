@@ -8,6 +8,6 @@ print ('new')
 
 print ('hello 0510')
 
-print ('bad mode')
+print ('bad mode 9:00pm')
 
 print ('end bad mode')
