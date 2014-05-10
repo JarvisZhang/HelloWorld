@@ -6,4 +6,6 @@ print ('140510 5pm')
 print ('new')
 
 
-print ('hello')
+print ('hello 0510')
+
+print ('bad mood')
